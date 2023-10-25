@@ -39,7 +39,6 @@ or
 5. Open your web browser and visit
    [http://localhost:1234](http://localhost:1234) to access the application.
 
-### Author
 
 [Nadiia Tsytsylina](https://github.com/nadiia-tsytsylina)
 
